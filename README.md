@@ -1,1 +1,2 @@
 # Hash
+### TESTADO COM MINGW APENAS!
